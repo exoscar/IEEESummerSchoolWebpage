@@ -699,9 +699,11 @@ h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-  background: url("../img/R10-Logo.webp");
+  /* background: url("../img/R10-Logo.webp"); */
+  background: url("../img/hehe.png");
   height: fit-content;
   background-size: cover;
+
   overflow: hidden;
   position: relative;
   color: #fff;
