@@ -1179,7 +1179,11 @@ h6 {
   border-left: 1px solid #e0e5fa;
   margin-bottom: 30px;
 }
-
+#supporters #hehe {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
 #supporters .supporter-logo {
   padding: 30px;
   display: flex;
@@ -1190,6 +1194,8 @@ h6 {
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   height: 160px;
+
+  /* transform: scaleX(1.5); */
 }
 
 #supporters .supporter-logo:hover img {
