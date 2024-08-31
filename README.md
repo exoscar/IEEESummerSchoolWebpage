@@ -1,1 +1,1 @@
-# checking
+IEEE CS Summer School Website
